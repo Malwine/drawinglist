@@ -8,7 +8,7 @@ The program was written during a drawing workshop at the cccamp15 in Germany.
 
 ### How to:
 
-Ruby needs to be installed. The clone the repository.  
+Ruby needs to be installed. Clone the repository.  
 In your console run:
 ```ruby random_drawing.rb drawinglist.txt```
 
