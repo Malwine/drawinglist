@@ -1,10 +1,10 @@
 
 ### Random drawing topics
-This is a little programm to run on your console to give you one of the cool topics Phil McAndrew collected on his blog.
+This is a little program to run on your console to give you one of the cool topics Phil McAndrew collected on his blog.
 
 After you got your result just start drawing.
 
-The programm was written during a drawing workshop at the cccamp15 in Germany.
+The program was written during a drawing workshop at the cccamp15 in Germany.
 
 ### How to:
 
